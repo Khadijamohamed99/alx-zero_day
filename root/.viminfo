@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1684969571,,"wq"
+|2,0,1686874384,,"wq"
+:صض
+|2,0,1686180317,,"صض"
 :;;;w
 |2,0,1684968239,,";;;w"
 :Wq
@@ -21,8 +23,6 @@
 |2,0,1682634974,,";:"
 :q
 |2,0,1682362322,,"q"
-:صض
-|2,0,1680186032,,"صض"
 :w!
 |2,0,1678243398,,"w!"
 
@@ -67,1105 +67,933 @@
 |3,0,36,0,1,0,1681774682,"f"
 
 # File marks:
-'0  71  5  ~/simple_shell/main.h
-|4,48,71,5,1684969571,"~/simple_shell/main.h"
-'1  134  0  ~/simple_shell/main.c
-|4,49,134,0,1684969531,"~/simple_shell/main.c"
-'2  40  0  ~/simple_shell/Betty
-|4,50,40,0,1684968505,"~/simple_shell/Betty"
-'3  33  0  ~/simple_shell/_getenv
-|4,51,33,0,1684968461,"~/simple_shell/_getenv"
-'4  40  0  ~/simple_shell/commands.c
-|4,52,40,0,1684968416,"~/simple_shell/commands.c"
-'5  28  0  ~/simple_shell/elements
-|4,53,28,0,1684968366,"~/simple_shell/elements"
-'6  35  0  ~/simple_shell/env
-|4,54,35,0,1684968326,"~/simple_shell/env"
-'7  25  0  ~/simple_shell/env.c
-|4,55,25,0,1684968291,"~/simple_shell/env.c"
-'8  41  0  ~/simple_shell/execcmd.c
-|4,56,41,0,1684968251,"~/simple_shell/execcmd.c"
-'9  12  0  ~/simple_shell/exit_builtin.c
-|4,57,12,0,1684968188,"~/simple_shell/exit_builtin.c"
+'0  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,48,1,5,1686874384,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+'1  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,49,1,0,1686874058,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+'2  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,50,45,0,1686873936,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+'3  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,51,1,5,1686873809,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+'4  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,52,1,5,1686873809,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+'5  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,53,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+'6  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,54,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+'7  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,55,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+'8  34  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
+|4,56,34,5,1686873057,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
+'9  29  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c
+|4,57,29,0,1686872574,"~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c"
 
 # Jumplist (newest first):
--'  71  5  ~/simple_shell/main.h
-|4,39,71,5,1684969571,"~/simple_shell/main.h"
--'  1  0  ~/simple_shell/main.h
-|4,39,1,0,1684969552,"~/simple_shell/main.h"
--'  134  0  ~/simple_shell/main.c
-|4,39,134,0,1684969531,"~/simple_shell/main.c"
--'  134  0  ~/simple_shell/main.c
-|4,39,134,0,1684969531,"~/simple_shell/main.c"
--'  1  0  ~/simple_shell/main.c
-|4,39,1,0,1684969515,"~/simple_shell/main.c"
--'  1  0  ~/simple_shell/main.c
-|4,39,1,0,1684969515,"~/simple_shell/main.c"
--'  40  0  ~/simple_shell/Betty
-|4,39,40,0,1684968505,"~/simple_shell/Betty"
--'  40  0  ~/simple_shell/Betty
-|4,39,40,0,1684968505,"~/simple_shell/Betty"
--'  40  0  ~/simple_shell/Betty
-|4,39,40,0,1684968505,"~/simple_shell/Betty"
--'  40  0  ~/simple_shell/Betty
-|4,39,40,0,1684968505,"~/simple_shell/Betty"
--'  1  0  ~/simple_shell/Betty
-|4,39,1,0,1684968494,"~/simple_shell/Betty"
--'  1  0  ~/simple_shell/Betty
-|4,39,1,0,1684968494,"~/simple_shell/Betty"
--'  1  0  ~/simple_shell/Betty
-|4,39,1,0,1684968494,"~/simple_shell/Betty"
--'  1  0  ~/simple_shell/Betty
-|4,39,1,0,1684968494,"~/simple_shell/Betty"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  33  0  ~/simple_shell/_getenv
-|4,39,33,0,1684968461,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  1  0  ~/simple_shell/_getenv
-|4,39,1,0,1684968445,"~/simple_shell/_getenv"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  40  0  ~/simple_shell/commands.c
-|4,39,40,0,1684968416,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  1  0  ~/simple_shell/commands.c
-|4,39,1,0,1684968399,"~/simple_shell/commands.c"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  28  0  ~/simple_shell/elements
-|4,39,28,0,1684968366,"~/simple_shell/elements"
--'  1  0  ~/simple_shell/elements
-|4,39,1,0,1684968351,"~/simple_shell/elements"
--'  1  0  ~/simple_shell/elements
-|4,39,1,0,1684968351,"~/simple_shell/elements"
--'  1  0  ~/simple_shell/elements
-|4,39,1,0,1684968351,"~/simple_shell/elements"
--'  1  0  ~/simple_shell/elements
-|4,39,1,0,1684968351,"~/simple_shell/elements"
--'  1  0  ~/simple_shell/elements
-|4,39,1,0,1684968351,"~/simple_shell/elements"
--'  1  0  ~/simple_shell/elements
-|4,39,1,0,1684968351,"~/simple_shell/elements"
+-'  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,39,1,5,1686874384,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,39,1,0,1686874058,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+-'  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,45,0,1686873936,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,45,0,1686873936,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,45,0,1686873936,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,45,0,1686873936,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,1,0,1686873870,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,1,0,1686873870,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,1,0,1686873870,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+|4,39,1,0,1686873870,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
+-'  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,39,1,5,1686873809,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+-'  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+|4,39,1,5,1686873809,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+|4,39,1,12,1686873673,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  52  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,52,0,1686873467,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+|4,39,1,0,1686873448,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
+-'  54  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+|4,39,54,0,1686873357,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/simple_shell/main.h
-	*	1684969567	0
-	"	71	5
-	^	71	6
-	.	71	5
-	+	71	5
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
+	*	1686874380	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
 
-> ~/simple_shell/main.c
-	*	1684969528	0
-	"	134	0
-	^	134	1
-	.	134	0
-	+	134	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
+	*	1686873933	0
+	"	45	0
+	^	45	1
+	.	45	0
+	+	45	0
 
-> ~/simple_shell/Betty
-	*	1684968503	0
-	"	40	0
-	^	40	1
-	.	40	0
-	+	40	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
+	*	1686873669	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
-> ~/simple_shell/_getenv
-	*	1684968457	0
-	"	33	0
-	^	33	1
-	.	33	0
-	+	33	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
+	*	1686873464	0
+	"	52	0
+	^	52	1
+	.	52	0
+	+	52	0
 
-> ~/simple_shell/commands.c
-	*	1684968414	0
-	"	40	0
-	^	40	1
-	.	40	0
-	+	40	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
+	*	1686873355	0
+	"	54	0
+	^	54	1
+	.	54	0
+	+	54	0
 
-> ~/simple_shell/elements
-	*	1684968363	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	28	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
+	*	1686873055	0
+	"	34	5
+	^	34	6
+	.	34	5
+	+	34	5
 
-> ~/simple_shell/env
-	*	1684968324	0
-	"	35	0
-	^	35	1
-	.	35	0
-	+	35	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c
+	*	1686872571	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
 
-> ~/simple_shell/env.c
-	*	1684968288	0
-	"	25	0
-	^	25	1
-	.	25	0
-	+	25	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/5-get_dnodeint.c
+	*	1686872463	0
+	"	32	0
+	^	32	1
+	.	32	0
+	+	32	0
 
-> ~/simple_shell/execcmd.c
-	*	1684968247	0
-	"	41	0
-	^	41	1
-	.	41	0
-	+	41	0
-
-> ~/simple_shell/exit_builtin.c
-	*	1684968186	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
-
-> ~/simple_shell/getPath.c
-	*	1684968114	0
-	"	66	0
-	^	66	1
-	.	66	0
-	+	66	0
-
-> ~/simple_shell/helpers
-	*	1684968060	0
-	"	104	0
-	^	104	1
-	.	104	0
-	+	104	0
-
-> ~/simple_shell/init.c
-	*	1684968002	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/simple_shell/pointer
-	*	1684967918	0
-	"	37	0
-	^	37	1
-	.	37	0
-	+	37	0
-
-> ~/simple_shell/pointer.c
-	*	1684967860	0
-	"	21	0
-	^	21	1
-	.	21	0
-	+	21	0
-
-> ~/simple_shell/proud
-	*	1684967790	0
-	"	1	0
-	^	1	0
-
-> ~/simple_shell/setEnv.c
-	*	1684967724	0
-	"	76	0
-	^	76	1
-	.	76	0
-	+	76	0
-
-> ~/simple_shell/set_env
-	*	1684967671	0
-	"	100	0
-	^	100	1
-	.	100	0
-	+	100	0
-
-> ~/simple_shell/str_tok.c
-	*	1684967609	0
-	"	73	0
-	^	73	0
-	.	72	1
-	+	72	1
-
-> ~/simple_shell/string
-	*	1684967509	0
-	"	40	0
-	^	40	1
-	.	40	0
-	+	40	0
-
-> ~/simple_shell/strings_1.c
-	*	1684967424	0
-	"	139	0
-	^	139	0
-	.	138	1
-	+	138	1
-
-> ~/simple_shell/handle_built.c
-	*	1684889878	0
-	"	28	0
-	^	28	1
-	.	28	1
-	+	19	0
-	+	17	38
-	+	28	1
-
-> ~/simple_shell/handle_exit.c‏
-	*	1684889055	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	15	21
-	+	28	0
-
-> ~/simple_shell/is_delimiter.c‏
-	*	1684888170	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
-
-> ~/simple_shell/set_zeroes.c
-	*	1684887326	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/simple_shell/words_count.c‏
-	*	1684886662	0
-	"	27	0
-	^	27	1
-	.	23	9
-	+	27	1
-	+	23	9
-
-> ~/simple_shell/getenv.c‏
-	*	1684885614	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/simple_shell/free_vector.c‏
-	*	1684883772	0
-	"	16	0
-	^	16	1
-	.	16	0
-	+	16	0
-
-> ~/simple_shell/check_file_status.c‏
-	*	1684883126	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/simple_shell/Docker
-	*	1684880532	0
-	"	1	31
-	^	1	32
-	.	1	31
-	+	1	31
-
-> ~/simple_shell/khadija
-	*	1684875425	0
-	"	1	14
-	^	1	15
-	.	1	14
-	+	1	14
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/101-password
-	*	1683334548	0
-	"	1	0
-	^	1	0
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/100-get_endianness.c
-	*	1683334316	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/5-flip_bits.c
-	*	1683334094	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
-	*	1683333836	0
-	"	17	0
-	^	17	1
-	.	17	0
-	+	17	0
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/3-set_bit.c
-	*	1683333258	0
-	"	17	0
-	^	17	1
-	.	17	0
-	+	17	0
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/2-get_bit.c
-	*	1683332489	0
-	"	20	0
-	^	20	1
-	.	12	9
-	+	20	0
-	+	19	13
-	+	17	5
-	+	12	9
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/1-print_binary.c
-	*	1683332052	0
-	"	27	0
-	^	27	1
-	.	11	20
-	+	7	2
-	+	5	1
-	+	7	3
-	+	3	23
-	+	4	22
-	+	27	0
-	+	17	7
-	+	15	3
-	+	11	20
-
-> ~/alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c
-	*	1683331435	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/4-free_dlistint.c
+	*	1686872340	0
 	"	22	0
 	^	22	1
-	.	4	66
-	+	22	1
-	+	23	0
-	+	7	30
-	+	5	35
-	+	4	66
+	.	22	0
+	+	22	0
 
-> ~/alx-low_level_programming/0x14-bit_manipulation/main.h
-	*	1683331082	0
-	"	16	5
-	^	16	6
-	.	2	14
-	+	16	5
-	+	5	18
-	+	2	14
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/3-add_dnodeint_end.c
+	*	1686872253	0
+	"	39	0
+	^	39	1
+	.	39	0
+	+	39	0
 
-> ~/alx-low_level_programming/0x12-singly_linked_lists/101-hello_holberton.asm
-	*	1682635421	0
-	"	5	4
-	^	5	5
-	.	1	9
-	+	12	33
-	+	1	9
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/100-first.c
-	*	1682635366	0
-	"	6	34
-	^	6	35
-	.	6	34
-	+	14	0
-	+	6	34
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
-	*	1682635317	0
-	"	33	19
-	^	33	20
-	.	33	19
-	+	33	19
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
-	*	1682635037	0
-	"	24	0
-	^	24	1
-	.	24	0
-	+	24	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-	*	1682634974	0
-	"	35	18
-	^	36	1
-	.	36	0
-	+	1	18
-	+	36	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-	*	1682634810	0
-	"	27	1
-	^	27	2
-	.	27	2
-	+	30	0
-	+	12	10
-	+	14	16
-	+	19	8
-	+	18	3
-	+	21	9
-	+	24	3
-	+	28	10
-	+	29	10
-	+	27	2
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-	*	1682634464	0
-	"	13	0
-	^	13	1
-	.	18	12
-	+	19	0
-	+	7	33
-	+	5	21
-	+	11	11
-	+	16	5
-	+	18	12
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-	*	1682634282	0
-	"	19	0
-	^	19	0
-	.	7	36
-	+	37	0
-	+	4	32
-	+	5	33
-	+	7	36
-
-> ~/printf/thespecifier.c
-	*	1682364145	0
-	"	137	0
-	^	137	1
-	.	137	0
-	+	137	0
-
-> ~/printf/easy_printers.c
-	*	1682364083	0
-	"	79	0
-	^	79	1
-	.	79	0
-	+	119	0
-	+	79	0
-
-> ~/printf/print_fs.c
-	*	1682363912	0
-	"	133	0
-	^	133	0
-	.	132	1
-	+	132	1
-
-> ~/printf/_pu.c
-	*	1682363581	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/2-add_dnodeint.c
+	*	1686872045	0
 	"	38	0
 	^	38	1
 	.	38	0
 	+	38	0
 
-> ~/printf/string_fs.c
-	*	1682362194	0
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/1-dlistint_len.c
+	*	1686871956	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	1	18
+	+	29	0
+
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/0-print_dlistint.c
+	*	1686871794	0
 	"	30	0
 	^	30	1
 	.	30	0
-	+	1	1
-	+	1	18
 	+	30	0
 
-> ~/printf/print_nums.c
-	*	1682317347	0
-	"	130	0
-	^	130	1
-	.	130	0
-	+	130	0
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+	*	1686865623	0
+	"	70	0
+	^	70	1
+	.	70	0
+	+	70	0
 
-> ~/printf/mfile.h
-	*	1682317206	0
-	"	1	0
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-tests.py
+	*	1686865579	0
+	"	31	25
+	^	31	26
+	.	31	25
+	+	31	25
 
-> ~/printf/num.c
-	*	1682316710	0
-	"	83	0
-	^	83	1
-	.	83	0
-	+	83	0
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
+	*	1686865263	0
+	"	9	24
+	^	9	25
+	.	9	24
+	+	9	24
 
-> ~/printf/ct_number.c
-	*	1682316592	0
-	"	106	0
-	^	106	1
-	.	106	0
-	+	106	0
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/102-main.py
+	*	1686865223	0
+	"	17	32
+	^	17	33
+	.	17	32
+	+	17	32
 
-> ~/printf/_putchar.c
-	*	1682314590	0
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
+	*	1686865116	0
+	"	3	69
+	^	3	70
+	.	3	69
+	+	3	69
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/101-main.py
+	*	1686865070	0
+	"	13	12
+	^	13	13
+	.	13	12
+	+	13	12
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
+	*	1686864984	0
+	"	13	21
+	^	13	22
+	.	13	21
+	+	13	21
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/100-main.py
+	*	1686864942	0
+	"	7	39
+	^	7	40
+	.	7	39
+	+	7	39
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/12-roman_to_int.py
+	*	1686864586	0
+	"	40	15
+	^	40	16
+	.	40	15
+	+	1	717
+	+	40	15
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+	*	1686864388	0
+	"	3	54
+	^	3	55
+	.	3	54
+	+	1	61
+	+	3	54
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/12-main.py
+	*	1686863811	0
+	"	19	64
+	^	19	65
+	.	19	64
+	+	19	64
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-main.py
+	*	1686863688	0
+	"	7	13
+	^	7	14
+	.	7	13
+	+	7	13
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py
+	*	1686863612	0
+	"	15	15
+	^	15	16
+	.	15	15
+	+	15	15
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/10-main.py
+	*	1686863569	0
+	"	9	39
+	^	9	40
+	.	9	39
+	+	9	39
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py
+	*	1686863485	0
+	"	5	58
+	^	5	59
+	.	5	58
+	+	5	58
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/9-main.py
+	*	1686863427	0
+	"	10	32
+	^	10	33
+	.	10	32
+	+	1	382
+	+	1	695
+	+	10	32
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py
+	*	1686863169	0
+	"	7	24
+	^	7	25
+	.	7	24
+	+	7	24
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/8-main.py
+	*	1686863137	0
+	"	17	32
+	^	17	33
+	.	17	32
+	+	17	32
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py
+	*	1686863054	0
+	"	6	24
+	^	6	25
+	.	6	24
+	+	6	24
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-main.py
+	*	1686863012	0
+	"	17	36
+	^	17	37
+	.	17	36
+	+	17	36
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/6-print_sorted_dictionary.py
+	*	1686862879	0
+	"	5	77
+	^	5	78
+	.	5	77
+	+	5	77
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/6-main.py
+	*	1686862840	0
+	"	5	36
+	^	5	37
+	.	5	36
+	+	5	36
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/5-number_keys.py
+	*	1686862763	0
+	"	5	29
+	^	5	30
+	.	5	29
+	+	5	29
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/5-main.py
+	*	1686862720	0
+	"	6	44
+	^	6	45
+	.	6	44
+	+	6	44
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/4-only_diff_elements.py
+	*	1686859896	0
+	"	5	25
+	^	5	26
+	.	5	25
+	+	5	25
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/4-main.py
+	*	1686859850	0
+	"	7	26
+	^	7	27
+	.	7	26
+	+	7	26
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/3-common_elements.py
+	*	1686859675	0
+	"	5	25
+	^	5	26
+	.	5	25
+	+	5	25
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/3-main.py
+	*	1686859629	0
+	"	7	25
+	^	7	26
+	.	7	25
+	+	7	25
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/2-uniq_add.py
+	*	1686859507	0
+	"	8	16
+	^	8	17
+	.	8	16
+	+	8	16
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/2-main.py
+	*	1686859462	0
+	"	6	35
+	^	6	36
+	.	6	35
+	+	6	35
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/1-search_replace.py
+	*	1686859312	0
+	"	9	18
+	^	9	19
+	.	9	18
+	+	9	18
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/1-main.py
+	*	1686859255	0
+	"	8	13
+	^	8	14
+	.	8	13
+	+	8	13
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/README.md
+	*	1686859055	0
+	"	1	51
+	^	1	52
+	.	1	51
+	+	1	51
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py
+	*	1686859011	0
+	"	5	63
+	^	5	64
+	.	5	63
+	+	5	63
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/0-main.py
+	*	1686858943	0
+	"	12	12
+	^	12	13
+	.	12	12
+	+	12	12
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/100-print_python_list_info.c
+	*	1686617411	0
 	"	15	0
 	^	15	1
 	.	15	0
 	+	15	0
 
-> ~/alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-	*	1682032342	0
-	"	25	4
-	^	25	5
-	.	25	4
-	+	27	0
-	+	23	9
-	+	14	6
-	+	25	4
+> ~/alx-higher_level_programming/0x03-python-data_structures/100-test_lists.py
+	*	1686617323	0
+	"	21	28
+	^	21	29
+	.	21	28
+	+	21	28
 
-> ~/alx-low_level_programming/0x10-variadic_functions/2-print_strings.c
-	*	1682032320	0
-	"	8	9
-	^	8	10
-	.	26	4
-	+	28	0
-	+	14	6
-	+	24	9
-	+	26	4
+> ~/alx-higher_level_programming/0x03-python-data_structures/12-switch.py
+	*	1686617058	0
+	"	5	36
+	^	5	37
+	.	5	36
+	+	1	41
+	+	5	36
 
-> ~/alx-low_level_programming/0x10-variadic_functions/0-sum_them_all.c
-	*	1682032224	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/11-delete_at.py
+	*	1686616160	0
+	"	7	17
+	^	7	18
+	.	7	17
+	+	7	17
 
-> ~/alx-low_level_programming/0x10-variadic_functions/3-print_all.c
-	*	1682032175	0
-	"	83	0
-	^	83	1
-	.	83	0
-	+	83	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/11-main.py
+	*	1686616109	0
+	"	8	13
+	^	8	14
+	.	8	13
+	+	8	13
 
-> ~/alx-low_level_programming/0x10-variadic_functions/variadic_functions.h
-	*	1682031911	0
-	"	24	5
-	^	24	6
-	.	24	5
-	+	24	5
+> ~/alx-higher_level_programming/0x03-python-data_structures/10-divisible_by_2.py
+	*	1686615934	0
+	"	9	18
+	^	9	19
+	.	9	18
+	+	9	18
 
-> ~/alx-low_level_programming/0x0F-function_pointers/3-op_functions.c
-	*	1681947741	0
-	"	61	0
-	^	61	1
-	.	61	0
-	+	61	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/10-main.py
+	*	1686615872	0
+	"	10	9
+	^	10	10
+	.	11	0
+	+	11	0
 
-> ~/alx-low_level_programming/0x0F-function_pointers/3-main.c
-	*	1681947534	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/9-max_integer.py
+	*	1686615756	0
+	"	10	17
+	^	10	18
+	.	10	17
+	+	10	17
 
-> ~/alx-low_level_programming/0x0F-function_pointers/3-get_op_func.c
-	*	1681947506	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/9-main.py
+	*	1686615713	0
+	"	6	33
+	^	6	34
+	.	6	33
+	+	6	33
 
-> ~/alx-low_level_programming/0x0F-function_pointers/2-int_index.c
-	*	1681947476	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/8-multiple_returns.py
+	*	1686615586	0
+	"	8	18
+	^	8	19
+	.	8	18
+	+	8	18
 
-> ~/alx-low_level_programming/0x0F-function_pointers/100-main_opcodes.c
-	*	1681947406	0
-	"	8	27
-	^	8	28
-	.	8	27
-	+	26	0
-	+	7	22
-	+	6	25
-	+	8	27
+> ~/alx-higher_level_programming/0x03-python-data_structures/8-main.py
+	*	1686615527	0
+	"	6	64
+	^	6	65
+	.	7	0
+	+	7	0
 
-> ~/alx-low_level_programming/0x0F-function_pointers/3-calc.h
-	*	1681947364	0
-	"	28	5
-	^	28	6
-	.	28	5
-	+	28	5
+> ~/alx-higher_level_programming/0x03-python-data_structures/7-add_tuple.py
+	*	1686615379	0
+	"	7	19
+	^	7	20
+	.	7	19
+	+	7	19
 
-> ~/alx-low_level_programming/0x0F-function_pointers/function_pointers.h
-	*	1681947336	0
-	"	10	5
-	^	10	6
-	.	10	5
-	+	10	5
+> ~/alx-higher_level_programming/0x03-python-data_structures/7-main.py
+	*	1686615103	0
+	"	10	28
+	^	10	29
+	.	10	28
+	+	10	28
 
-> ~/alx-low_level_programming/0x0F-function_pointers/1-array_iterator.c
-	*	1681947279	0
-	"	7	29
-	^	7	30
-	.	7	29
-	+	18	0
-	+	4	33
-	+	5	26
+> ~/alx-higher_level_programming/0x03-python-data_structures/6-print_matrix_integer.py
+	*	1686614931	0
+	"	6	14
+	^	6	15
+	.	6	15
+	+	6	15
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/6-main.py
+	*	1686614870	0
+	"	12	21
+	^	12	22
+	.	12	21
+	+	12	21
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/5-no_c.py
+	*	1686614692	0
+	"	4	20
+	^	4	21
+	.	4	20
+	+	4	20
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/5-main.py
+	*	1686614637	0
+	"	6	23
+	^	6	24
+	.	6	23
+	+	6	23
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/4-new_in_list.py
+	*	1686614467	0
+	"	8	18
+	^	8	19
+	.	8	18
+	+	8	18
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/4-main.py
+	*	1686614396	0
+	"	10	13
+	^	10	14
+	.	10	13
+	+	10	13
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/3-print_reversed_list_integer.py
+	*	1686614275	0
+	"	6	43
+	^	6	44
+	.	6	43
+	+	6	43
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/3-main.py
+	*	1686614230	0
+	"	5	35
+	^	5	36
+	.	6	0
+	+	6	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/2-replace_in_list.py
+	*	1686614030	0
+	"	7	21
+	^	7	22
+	.	7	21
+	+	7	21
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/2-main.py
+	*	1686613973	0
+	"	9	13
+	^	9	14
+	.	9	13
+	+	9	13
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/1-element_at.py
+	*	1686613657	0
+	"	6	26
+	^	6	27
+	.	6	26
 	+	6	26
-	+	7	29
 
-> ~/alx-low_level_programming/0x0F-function_pointers/0-print_name.c
-	*	1681947231	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/1-main.py
+	*	1686613581	0
+	"	7	0
+	^	7	0
+	.	6	74
+	+	6	74
 
-> ~/alx-low_level_programming/0x0D-preprocessor/4-sum.h
-	*	1681775820	0
+> ~/alx-higher_level_programming/0x03-python-data_structures/0-print_list_integer.py
+	*	1686613278	0
+	"	4	39
+	^	4	40
+	.	4	39
+	+	4	39
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/0-main.py
+	*	1686613002	0
+	"	5	26
+	^	5	27
+	.	5	26
+	+	5	26
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/README.md
+	*	1686612715	0
+	"	2	0
+	^	2	0
+	.	1	45
+	+	1	45
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/103-fast_alphabet.py
+	*	1686272676	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	3	28
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/102-magic_calculation.py
+	*	1686272625	0
+	"	11	23
+	^	11	24
+	.	11	23
+	+	11	23
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/101-easy_print.py
+	*	1686272586	0
+	"	2	48
+	^	2	49
+	.	2	48
+	+	2	48
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/100-my_calculator.py
+	*	1686272554	0
+	"	26	52
+	^	26	53
+	.	26	52
+	+	26	52
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/5-variable_load.py
+	*	1686272484	0
+	"	4	11
+	^	4	12
+	.	4	11
+	+	4	11
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/variable_load_5.py
+	*	1686272455	0
+	"	4	2
+	^	4	3
+	.	4	2
+	+	4	2
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/3-infinite_add.py
+	*	1686272408	0
+	"	8	16
+	^	8	17
+	.	8	16
+	+	8	16
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/2-args.py
+	*	1686272373	0
+	"	18	17
+	^	18	18
+	.	18	17
+	+	18	17
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/1-calculation.py
+	*	1686272271	0
+	"	9	48
+	^	9	49
+	.	9	48
+	+	9	48
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/calculator_1.py
+	*	1686272218	0
+	"	50	20
+	^	50	21
+	.	50	20
+	+	50	20
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/0-add.py
+	*	1686272121	0
+	"	6	48
+	^	6	49
+	.	6	48
+	+	6	48
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/add_0.py
+	*	1686272063	0
+	"	12	17
+	^	12	18
+	.	12	17
+	+	12	17
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+	*	1686181255	0
+	"	8	19
+	^	8	20
+	.	8	19
+	+	8	19
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+	*	1686181210	0
+	"	9	16
+	^	9	17
+	.	9	16
+	+	9	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-main.py
+	*	1686181161	0
+	"	8	34
+	^	8	35
+	.	8	34
+	+	8	34
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+	*	1686181119	0
+	"	7	32
+	^	7	33
+	.	7	32
+	+	7	32
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+	*	1686181022	0
+	"	11	35
+	^	11	36
+	.	11	35
+	+	11	35
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-main.py
+	*	1686180985	0
+	"	5	8
+	^	5	9
+	.	5	8
+	+	5	8
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py
+	*	1686180929	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	3	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-main.py
+	*	1686180892	0
+	"	8	16
+	^	8	17
+	.	8	16
+	+	8	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py
+	*	1686180832	0
+	"	4	17
+	^	4	18
+	.	4	17
+	+	4	17
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-main.py
+	*	1686180797	0
 	"	6	18
 	^	6	19
 	.	6	18
 	+	6	18
 
-> ~/alx-low_level_programming/0x0D-preprocessor/3-function_like_macro.h
-	*	1681775787	0
-	"	6	34
-	^	6	35
-	.	6	34
-	+	6	34
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py
+	*	1686180754	0
+	"	10	19
+	^	10	20
+	.	10	19
+	+	10	19
 
-> ~/alx-low_level_programming/0x0D-preprocessor/2-main.c
-	*	1681775766	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
-
-> ~/alx-low_level_programming/0x0D-preprocessor/1-pi.h
-	*	1681775745	0
-	"	6	17
-	^	6	18
-	.	6	17
-	+	1	13
-	+	6	17
-
-> ~/alx-low_level_programming/0x0D-preprocessor/0-object_like_macro.h
-	*	1681775722	0
-	"	6	32
-	^	6	33
-	.	6	32
-	+	6	32
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/4-new_dog.c
-	*	1681775482	0
-	"	9	24
-	^	9	25
-	.	9	24
-	+	84	0
-	+	49	22
-	+	48	25
-	+	46	23
-	+	45	21
-	+	44	24
-	+	42	27
-	+	22	31
-	+	24	25
-	+	25	27
-	+	27	18
-	+	22	27
-	+	27	16
-	+	9	24
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/2-print_dog.c
-	*	1681775224	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/5-free_dog.c
-	*	1681774793	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/1-init_dog.c
-	*	1681774650	0
-	"	4	31
-	^	4	32
-	.	4	31
-	+	20	1
-	+	21	0
-	+	6	28
-	+	5	26
-	+	4	31
-
-> ~/alx-low_level_programming/0x0E-structures_typedef/dog.h
-	*	1681774618	0
-	"	10	28
-	^	10	29
-	.	10	28
-	+	26	5
-	+	7	20
-	+	6	22
-	+	5	25
-	+	10	28
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/3-array_range.c
-	*	1681424799	0
-	"	7	26
-	^	7	27
-	.	7	26
-	+	23	0
-	+	5	19
-	+	4	25
-	+	6	21
-	+	7	26
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/2-calloc.c
-	*	1681424721	0
-	"	8	39
-	^	8	40
-	.	8	39
-	+	23	0
-	+	6	24
-	+	5	29
-	+	4	35
-	+	8	39
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/101-mul.c
-	*	1681424637	0
-	"	9	37
-	^	9	38
-	.	9	37
-	+	114	0
-	+	84	17
-	+	83	20
-	+	85	24
-	+	87	28
-	+	17	31
-	+	18	36
-	+	20	39
-	+	32	42
-	+	33	38
-	+	34	38
-	+	36	44
-	+	6	45
-	+	7	34
-	+	9	38
-	+	114	0
-	+	85	29
-	+	84	35
-	+	83	41
-	+	87	33
-	+	33	39
-	+	32	44
-	+	34	38
-	+	36	42
-	+	17	47
-	+	18	42
-	+	20	39
-	+	6	43
-	+	7	33
-	+	9	37
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/100-realloc.c
-	*	1681424135	0
-	"	9	51
-	^	9	52
-	.	9	51
-	+	40	0
-	+	4	32
-	+	5	38
-	+	6	44
-	+	7	50
-	+	9	51
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/1-string_nconcat.c
-	*	1681423951	0
-	"	10	38
-	^	10	39
-	.	10	38
-	+	47	0
-	+	38	8
-	+	35	13
-	+	29	18
-	+	20	0
-	+	22	18
-	+	17	23
-	+	5	35
-	+	6	35
-	+	7	31
-	+	8	34
-	+	10	38
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/0-malloc_checked.c
-	*	1681423716	0
-	"	17	0
-	^	17	1
-	.	17	0
-	+	17	0
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/main.h
-	*	1681423678	0
-	"	16	20
-	^	16	21
-	.	16	21
-	+	16	21
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/_putchar.c
-	*	1681423564	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
-
-> ~/alx-low_level_programming/0x0B-malloc_free/101-strtow.c
-	*	1681261971	0
-	"	10	0
-	^	10	1
-	.	4	29
-	+	75	0
-	+	28	28
-	+	29	31
-	+	30	0
-	+	31	28
-	+	7	32
-	+	6	0
-	+	5	25
-	+	4	29
-
-> ~/alx-low_level_programming/0x0B-malloc_free/100-argstostr.c
-	*	1681261762	0
-	"	48	1
-	^	48	2
-	.	6	19
-	+	51	0
-	+	20	29
-	+	21	15
-	+	22	21
-	+	23	22
-	+	4	28
-	+	5	18
-	+	6	19
-
-> ~/alx-low_level_programming/0x0B-malloc_free/4-free_grid.c
-	*	1681261697	0
-	"	4	31
-	^	4	32
-	.	4	31
-	+	17	0
-	+	7	21
-	+	6	21
-	+	5	33
-	+	4	31
-
-> ~/alx-low_level_programming/0x0B-malloc_free/3-alloc_grid.c
-	*	1681261446	0
-	"	7	24
-	^	7	25
-	.	7	24
-	+	40	0
-	+	4	33
-	+	5	18
-	+	6	21
-	+	7	24
-
-> ~/alx-low_level_programming/0x0B-malloc_free/2-str_concat.c
-	*	1681261303	0
-	"	6	19
-	^	6	20
-	.	6	19
-	+	51	0
-	+	20	25
-	+	21	21
-	+	22	16
-	+	21	16
-	+	23	23
-	+	4	27
-	+	5	17
-	+	6	19
-
-> ~/alx-low_level_programming/0x0B-malloc_free/1-strdup.c
-	*	1681261167	0
-	"	35	0
-	^	35	1
-	.	4	28
-	+	35	0
-	+	21	28
-	+	7	17
-	+	6	18
-	+	5	23
-	+	4	28
-
-> ~/alx-low_level_programming/0x0B-malloc_free/0-create_array.c
-	*	1681261108	0
-	"	7	31
-	^	7	32
-	.	7	31
-	+	22	0
-	+	4	30
-	+	6	29
-	+	5	36
-	+	8	42
-	+	7	31
-
-> ~/alx-low_level_programming/main.h
-	*	1681260935	0
-	"	16	18
-	^	16	19
-	.	16	18
-	+	16	18
-
-> ~/alx-low_level_programming/0x09-static_libraries/main.h
-	*	1681067783	0
-	"	25	18
-	^	25	19
-	.	25	18
-	+	25	18
-
-> ~/alx-low_level_programming/0x08-recursion/101-wildcmp.c
-	*	1680798785	0
-	"	46	0
-	^	46	1
-	.	4	21
-	+	46	0
-	+	6	24
-	+	7	24
-	+	5	22
-	+	39	8
-	+	6	24
-	+	39	24
-	+	38	8
-	+	6	17
-	+	38	23
-	+	37	22
-	+	36	28
-	+	4	21
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-main.py
+	*	1686180714	0
+	"	7	7
+	^	7	8
+	.	7	7
+	+	7	7
